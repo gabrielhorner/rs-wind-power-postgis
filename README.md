@@ -84,11 +84,15 @@ output/                        map_wind_plants_rs.png, *.csv
   index and then picks the closest by true geodesic distance.
 - **Two radii, based on Brazilian environmental licensing rules.**
   - 2 km: CONAMA Resolution 428/2010, art. 5, III (as amended by CONAMA 508/2025) —
+    in licensing processes not subject to a full environmental impact study (EIA/RIMA),
     the protected-area manager must be notified when a project lies within 2,000 m of
-    a protected area whose buffer zone has not been established. It does not apply to
-    APAs, private reserves (RPPNs) or consolidated urban areas.
-  - 10 km: the former CONAMA Resolution 13/1990 (revoked in 2010) — licensing was
-    required for activities within a 10 km "surrounding area" of protected areas.
+    a protected area whose buffer zone has not been established. The 2025 amendment
+    removed the former 5-year time limit on this rule. It does not apply to APAs,
+    private reserves (RPPNs) or consolidated urban areas.
+  - 10 km: the former CONAMA Resolution 13/1990 (revoked in 2010) — any activity that
+    could affect the biota within a 10 km radius of a protected area had to be licensed,
+    and the licence required the authorisation of the protected-area manager (not just a
+    notification, as in the current rule).
   - Proximity is tested with `ST_DWithin` on `geography` (exact distance, index-assisted);
     buffer polygons are only used for the map.
 
@@ -115,6 +119,11 @@ output/                        map_wind_plants_rs.png, *.csv
   are missing. Polygon quality also varies: of the 101 areas, 51 match the legal
   description, 43 are estimates and 7 are schematic.
 - Plants are points (one coordinate per plant), not the footprint of each turbine.
+- The 2 km notification rule covers licensing processes not subject to EIA/RIMA; projects
+  licensed with a full EIA/RIMA follow a different procedure (authorisation by the
+  protected-area manager when the area or its buffer zone is affected). The licensing
+  type of each plant is not part of the data, so the 2 km radius is used as a reference
+  distance for all plants.
 - This is a spatial proximity analysis. It does not assess the licensing of any plant.
 
 ## How to run
