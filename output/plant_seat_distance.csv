@@ -1,0 +1,135 @@
+﻿ceg,name,municipality,phase,power_granted_kw,own_seat,own_seat_km,nearest_seat,nearest_seat_code,nearest_seat_km,nearest_is_other_municipality
+EOLCVRS052156-6-01,Três Divisas 10,Alegrete,Construção não iniciada,45000.0,Alegrete,44.6,Alegrete,4300406,44.6,False
+EOLCVRS052159-0-01,Três Divisas 13,Alegrete,Construção não iniciada,49500.0,Alegrete,41.0,Alegrete,4300406,41.0,False
+EOLCVRS052160-4-01,Três Divisas 14,Alegrete,Construção não iniciada,49500.0,Alegrete,40.77,Alegrete,4300406,40.77,False
+EOLCVRS052161-2-01,Três Divisas 15,Alegrete,Construção não iniciada,49500.0,Alegrete,35.75,Alegrete,4300406,35.75,False
+EOLCVRS052162-0-01,Três Divisas 16,Alegrete,Construção não iniciada,49500.0,Alegrete,37.34,Alegrete,4300406,37.34,False
+EOLCVRS052163-9-01,Três Divisas 17,Alegrete,Construção não iniciada,40500.0,Alegrete,39.35,Alegrete,4300406,39.35,False
+EOLCVRS052164-7-01,Três Divisas 18,Alegrete,Construção não iniciada,31500.0,Alegrete,36.91,Alegrete,4300406,36.91,False
+EOLCVRS052151-5-01,Três Divisas 8,Alegrete,Construção não iniciada,49500.0,Alegrete,42.54,Alegrete,4300406,42.54,False
+EOLCVRS031517-6-01,Chuí 09,Chuí,Operação,17900.0,Chuí,7.06,Chuí,4305439,7.06,False
+EOLCVRS030767-0-01,Chuí I,Chuí,Operação,24000.0,Chuí,7.02,Chuí,4305439,7.02,False
+EOLCVRS030790-4-01,Chuí II,Chuí,Operação,22000.0,Chuí,6.32,Chuí,4305439,6.32,False
+EOLCVRS030754-8-01,Chuí IV,Chuí,Operação,22000.0,Chuí,4.76,Chuí,4305439,4.76,False
+EOLCVRS030760-2-01,Chuí V,Chuí,Operação,30000.0,Chuí,4.13,Chuí,4305439,4.13,False
+EOLCVRS030791-2-01,Minuano II,Chuí,Operação,24000.0,Chuí,4.74,Chuí,4305439,4.74,False
+EOLCVRS072939-6-01,São Miguel V,Chuí,Construção não iniciada,45000.0,Chuí,10.66,Chuí,4305439,10.66,False
+EOLCVRS072940-0-01,São Miguel VI,Chuí,Construção não iniciada,45000.0,Chuí,8.86,Chuí,4305439,8.86,False
+EOLCVRS072942-6-01,São Miguel VIII,Chuí,Construção não iniciada,49500.0,Chuí,6.76,Chuí,4305439,6.76,False
+EOLCVRS031600-8-01,Verace 27,Chuí,Operação,16110.0,Chuí,13.01,Chuí,4305439,13.01,False
+EOLCVRS031578-8-01,Verace 28,Chuí,Operação,12530.0,Chuí,11.5,Chuí,4305439,11.5,False
+EOLCVRS031557-5-01,Verace 29,Chuí,Operação,17900.0,Chuí,12.28,Santa Vitória do Palmar,4317301,11.05,True
+EOLCVRS030844-7-01,Minuano I,Chuí e Santa Vitória do Palmar,Operação,22000.0,Chuí,6.43,Chuí,4305439,6.43,False
+EOLCVRS032474-4-01,Lagoa dos Barros II,Osório,Construção não iniciada,22240.0,Osório,17.99,Osório,4313508,17.99,False
+EOLCVRS035205-5-01,Lagoa dos Barros III,Osório,Construção não iniciada,22240.0,Osório,16.34,Osório,4313508,16.34,False
+EOLCVRS030286-4-01,Osório 2,Osório,Operação,27600.0,Osório,6.63,Osório,4313508,6.63,False
+EOLCVRS030449-2-01,Osório 3,Osório,Operação,29900.0,Osório,10.58,Osório,4313508,10.58,False
+EOLCVRS028810-1-01,Parque Eólico de Osório,Osório,Operação,50000.0,Osório,8.53,Osório,4313508,8.53,False
+EOLCVRS028864-0-01,Parque Eólico dos Índios,Osório,Operação,50000.0,Osório,11.72,Osório,4313508,11.72,False
+EOLCVRS030734-3-01,Parque Eólico dos Índios 2,Osório,Operação,29900.0,Osório,16.02,Osório,4313508,16.02,False
+EOLCVRS030894-3-01,Parque Eólico dos Índios 3,Osório,Operação,23000.0,Osório,12.24,Osório,4313508,12.24,False
+EOLCVRS028811-0-01,Sangradouro,Osório,Operação,50000.0,Osório,5.74,Osório,4313508,5.74,False
+EOLCVRS030381-0-01,Sangradouro 2,Osório,Operação,29900.0,Osório,3.03,Osório,4313508,3.03,False
+EOLCVRS030330-5-01,Sangradouro 3,Osório,Operação,27600.0,Osório,8.99,Osório,4313508,8.99,False
+EOLCVRS030457-3-01,Atlântica I,Palmares do Sul,Operação,30000.0,Palmares do Sul,19.84,Balneário Pinhal,4301636,11.28,True
+EOLCVRS030462-0-01,Atlântica II,Palmares do Sul,Operação,30000.0,Palmares do Sul,19.49,Balneário Pinhal,4301636,12.38,True
+EOLCVRS030461-1-01,Atlântica IV,Palmares do Sul,Operação,30000.0,Palmares do Sul,17.25,Balneário Pinhal,4301636,11.01,True
+EOLCVRS030480-8-01,Atlântica V,Palmares do Sul,Operação,30000.0,Palmares do Sul,20.07,Balneário Pinhal,4301636,8.51,True
+EOLCVRS030343-7-01,Fazenda Rosário,Palmares do Sul,Operação,9200.0,Palmares do Sul,23.96,Palmares do Sul,4313656,23.96,False
+EOLCVRS030478-6-01,Fazenda Rosário 2,Palmares do Sul,Operação,23000.0,Palmares do Sul,22.52,Palmares do Sul,4313656,22.52,False
+EOLCVRS030334-8-01,Fazenda Rosário 3,Palmares do Sul,Operação,16100.0,Palmares do Sul,23.14,Palmares do Sul,4313656,23.14,False
+EOLCVRS028855-1-01,Palmares,Palmares do Sul,Operação,9200.0,Palmares do Sul,24.96,Palmares do Sul,4313656,24.96,False
+EOLCVRS031972-4-01,"Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense - RS",Pelotas,Operação,1.98,Pelotas,10.16,Pelotas,4314407,10.16,False
+EOLCVRS034733-7-01,Candiotinha,Pinheiro Machado,Construção não iniciada,33600.0,Pinheiro Machado,15.68,Candiota,4304358,13.47,True
+EOLCVRS034728-0-01,São João Batista,Pinheiro Machado,Construção não iniciada,16800.0,Pinheiro Machado,12.99,Pinheiro Machado,4314506,12.99,False
+EOLCVRS034299-8-01,Serra do Veleda,Pinheiro Machado,Construção não iniciada,33600.0,Pinheiro Machado,11.22,Pinheiro Machado,4314506,11.22,False
+EOLCVRS052142-6-01,Três Divisas 1,Quaraí,Construção não iniciada,49500.0,Quaraí,38.26,Quaraí,4315305,38.26,False
+EOLCVRS052157-4-01,Três Divisas 11,Quaraí,Construção não iniciada,45000.0,Quaraí,45.33,Quaraí,4315305,45.33,False
+EOLCVRS052158-2-01,Três Divisas 12,Quaraí,Construção não iniciada,45000.0,Quaraí,47.12,Alegrete,4300406,45.29,True
+EOLCVRS052143-4-01,Três Divisas 2,Quaraí,Construção não iniciada,40500.0,Quaraí,36.53,Quaraí,4315305,36.53,False
+EOLCVRS030842-0-01,Corredor do Senandes II,Rio Grande,Operação,21600.0,Rio Grande,40.16,Rio Grande,4315602,40.16,False
+EOLCVRS030819-6-01,Corredor do Senandes III,Rio Grande,Operação,27000.0,Rio Grande,43.97,Rio Grande,4315602,43.97,False
+EOLCVRS030840-4-01,Corredor do Senandes IV,Rio Grande,Operação,29700.0,Rio Grande,39.06,Rio Grande,4315602,39.06,False
+EOLCVRS030469-7-01,REB Cassino I,Rio Grande,Operação,22000.0,Rio Grande,18.61,Rio Grande,4315602,18.61,False
+EOLCVRS030477-8-01,REB Cassino II,Rio Grande,Operação,20000.0,Rio Grande,17.98,Rio Grande,4315602,17.98,False
+EOLCVRS030468-9-01,REB Cassino III,Rio Grande,Operação,22000.0,Rio Grande,17.31,Rio Grande,4315602,17.31,False
+EOLCVRS030833-1-01,Vento Aragano I,Rio Grande,Operação,29700.0,Rio Grande,44.9,Rio Grande,4315602,44.9,False
+EOLCVRS031510-9-01,Capão do Inglês,Sant'Ana do Livramento,Operação,10000.0,Sant'Ana do Livramento,17.0,Sant'Ana do Livramento,4317103,17.0,False
+EOLCVRS030348-8-01,Cerro Chato I (Antiga Coxilha Negra V),Sant'Ana do Livramento,Operação,30000.0,Sant'Ana do Livramento,19.2,Sant'Ana do Livramento,4317103,19.2,False
+EOLCVRS030349-6-01,Cerro Chato II (Antiga Coxilha Negra VI),Sant'Ana do Livramento,Operação,30000.0,Sant'Ana do Livramento,15.33,Sant'Ana do Livramento,4317103,15.33,False
+EOLCVRS030350-0-01,Cerro Chato III (Antiga Coxilha Negra VII),Sant'Ana do Livramento,Operação,30000.0,Sant'Ana do Livramento,19.96,Sant'Ana do Livramento,4317103,19.96,False
+EOLCVRS032236-9-01,Coxilha Negra 2,Sant'Ana do Livramento,Operação,100800.0,Sant'Ana do Livramento,41.07,Sant'Ana do Livramento,4317103,41.07,False
+EOLCVRS032237-7-01,Coxilha Negra 3,Sant'Ana do Livramento,Operação,105000.0,Sant'Ana do Livramento,39.45,Sant'Ana do Livramento,4317103,39.45,False
+EOLCVRS033807-9-01,Coxilha Negra 4,Sant'Ana do Livramento,Operação,96600.0,Sant'Ana do Livramento,30.41,Sant'Ana do Livramento,4317103,30.41,False
+EOLCVRS031487-0-01,Coxilha Seca,Sant'Ana do Livramento,Operação,30000.0,Sant'Ana do Livramento,19.34,Sant'Ana do Livramento,4317103,19.34,False
+EOLCVRS031477-3-01,Galpões,Sant'Ana do Livramento,Operação,8000.0,Sant'Ana do Livramento,13.77,Sant'Ana do Livramento,4317103,13.77,False
+EOLCVRS030750-5-01,Ibirapuitã I,Sant'Ana do Livramento,Operação,25200.0,Sant'Ana do Livramento,18.22,Sant'Ana do Livramento,4317103,18.22,False
+EOLCVRS031700-4-01,Aura Mangueira IV,Santa Vitória do Palmar,Operação,21000.0,Santa Vitória do Palmar,69.05,Santa Vitória do Palmar,4317301,69.05,False
+EOLCVRS031696-2-01,Aura Mangueira VI,Santa Vitória do Palmar,Operação,27000.0,Santa Vitória do Palmar,68.89,Santa Vitória do Palmar,4317301,68.89,False
+EOLCVRS031805-1-01,Aura Mangueira VII,Santa Vitória do Palmar,Operação,24000.0,Santa Vitória do Palmar,54.73,Santa Vitória do Palmar,4317301,54.73,False
+EOLCVRS031719-5-01,Aura Mangueira XI,Santa Vitória do Palmar,Operação,9000.0,Santa Vitória do Palmar,56.39,Santa Vitória do Palmar,4317301,56.39,False
+EOLCVRS031653-9-01,Aura Mangueira XII,Santa Vitória do Palmar,Operação,15000.0,Santa Vitória do Palmar,65.03,Santa Vitória do Palmar,4317301,65.03,False
+EOLCVRS031646-6-01,Aura Mangueira XIII,Santa Vitória do Palmar,Operação,15000.0,Santa Vitória do Palmar,62.23,Santa Vitória do Palmar,4317301,62.23,False
+EOLCVRS031647-4-01,Aura Mangueira XV,Santa Vitória do Palmar,Operação,18000.0,Santa Vitória do Palmar,59.21,Santa Vitória do Palmar,4317301,59.21,False
+EOLCVRS031705-5-01,Aura Mangueira XVII,Santa Vitória do Palmar,Operação,15000.0,Santa Vitória do Palmar,67.8,Santa Vitória do Palmar,4317301,67.8,False
+EOLCVRS031806-0-01,Aura Mirim II,Santa Vitória do Palmar,Operação,30000.0,Santa Vitória do Palmar,59.89,Santa Vitória do Palmar,4317301,59.89,False
+EOLCVRS031663-6-01,Aura Mirim IV,Santa Vitória do Palmar,Operação,15000.0,Santa Vitória do Palmar,53.43,Santa Vitória do Palmar,4317301,53.43,False
+EOLCVRS031701-2-01,Aura Mirim VI,Santa Vitória do Palmar,Operação,9000.0,Santa Vitória do Palmar,66.31,Santa Vitória do Palmar,4317301,66.31,False
+EOLCVRS031699-7-01,Aura Mirim VIII,Santa Vitória do Palmar,Operação,9000.0,Santa Vitória do Palmar,65.03,Santa Vitória do Palmar,4317301,65.03,False
+EOLCVRS052435-2-01,Canelões I,Santa Vitória do Palmar,Construção não iniciada,31500.0,Santa Vitória do Palmar,23.09,Santa Vitória do Palmar,4317301,23.09,False
+EOLCVRS052436-0-01,Canelões II,Santa Vitória do Palmar,Construção não iniciada,27000.0,Santa Vitória do Palmar,19.59,Santa Vitória do Palmar,4317301,19.59,False
+EOLCVRS052437-9-01,Canelões III,Santa Vitória do Palmar,Construção não iniciada,49500.0,Santa Vitória do Palmar,18.62,Santa Vitória do Palmar,4317301,18.62,False
+EOLCVRS052438-7-01,Canelões IV,Santa Vitória do Palmar,Construção não iniciada,36000.0,Santa Vitória do Palmar,17.11,Santa Vitória do Palmar,4317301,17.11,False
+EOLCVRS052439-5-01,Canelões V,Santa Vitória do Palmar,Construção não iniciada,45000.0,Santa Vitória do Palmar,17.32,Santa Vitória do Palmar,4317301,17.32,False
+EOLCVRS052440-9-01,Canelões VI,Santa Vitória do Palmar,Construção não iniciada,45000.0,Santa Vitória do Palmar,15.34,Santa Vitória do Palmar,4317301,15.34,False
+EOLCVRS052441-7-01,Canelões VII,Santa Vitória do Palmar,Construção não iniciada,36000.0,Santa Vitória do Palmar,13.44,Santa Vitória do Palmar,4317301,13.44,False
+EOLCVRS052442-5-01,Canelões VIII,Santa Vitória do Palmar,Construção não iniciada,49500.0,Santa Vitória do Palmar,11.64,Santa Vitória do Palmar,4317301,11.64,False
+EOLCVRS055349-2-01,Electra Ventos do Sul I,Santa Vitória do Palmar,Construção não iniciada,25200.0,Santa Vitória do Palmar,41.71,Santa Vitória do Palmar,4317301,41.71,False
+EOLCVRS055350-6-01,Electra Ventos do Sul II,Santa Vitória do Palmar,Construção não iniciada,21000.0,Santa Vitória do Palmar,38.82,Santa Vitória do Palmar,4317301,38.82,False
+EOLCVRS055351-4-01,Electra Ventos do Sul III,Santa Vitória do Palmar,Construção não iniciada,25200.0,Santa Vitória do Palmar,39.95,Santa Vitória do Palmar,4317301,39.95,False
+EOLCVRS055352-2-01,Electra Ventos do Sul IV,Santa Vitória do Palmar,Construção não iniciada,25200.0,Santa Vitória do Palmar,41.64,Santa Vitória do Palmar,4317301,41.64,False
+EOLCVRS055353-0-01,Electra Ventos do Sul V,Santa Vitória do Palmar,Construção não iniciada,25200.0,Santa Vitória do Palmar,45.51,Santa Vitória do Palmar,4317301,45.51,False
+EOLCVRS038007-5-01,Gran Sul 1,Santa Vitória do Palmar,Construção não iniciada,55800.0,Santa Vitória do Palmar,52.34,Santa Vitória do Palmar,4317301,52.34,False
+EOLCVRS038008-3-01,Gran Sul 2,Santa Vitória do Palmar,Construção não iniciada,49600.0,Santa Vitória do Palmar,49.81,Santa Vitória do Palmar,4317301,49.81,False
+EOLCVRS038009-1-01,Gran Sul 3,Santa Vitória do Palmar,Construção não iniciada,37200.0,Santa Vitória do Palmar,48.61,Santa Vitória do Palmar,4317301,48.61,False
+EOLCVRS038010-5-01,Gran Sul 4,Santa Vitória do Palmar,Construção não iniciada,49600.0,Santa Vitória do Palmar,47.8,Santa Vitória do Palmar,4317301,47.8,False
+EOLCVRS038011-3-01,Gran Sul 5,Santa Vitória do Palmar,Construção não iniciada,49600.0,Santa Vitória do Palmar,47.14,Santa Vitória do Palmar,4317301,47.14,False
+EOLCVRS072201-4-01,Gran Sul 6,Santa Vitória do Palmar,Construção não iniciada,37200.0,Santa Vitória do Palmar,47.31,Santa Vitória do Palmar,4317301,47.31,False
+EOLCVRS072202-2-01,Gran Sul 7,Santa Vitória do Palmar,Construção não iniciada,31000.0,Santa Vitória do Palmar,46.14,Santa Vitória do Palmar,4317301,46.14,False
+EOLCVRS072265-0-01,Gran Sul 8,Santa Vitória do Palmar,Construção não iniciada,49600.0,Santa Vitória do Palmar,45.9,Santa Vitória do Palmar,4317301,45.9,False
+EOLCVRS072266-9-01,Gran Sul 9,Santa Vitória do Palmar,Construção não iniciada,43400.0,Santa Vitória do Palmar,44.07,Santa Vitória do Palmar,4317301,44.07,False
+EOLCVRS072935-3-01,São Miguel I,Santa Vitória do Palmar,Construção não iniciada,31500.0,Santa Vitória do Palmar,5.65,Santa Vitória do Palmar,4317301,5.65,False
+EOLCVRS072936-1-01,São Miguel II,Santa Vitória do Palmar,Construção não iniciada,27000.0,Santa Vitória do Palmar,5.7,Santa Vitória do Palmar,4317301,5.7,False
+EOLCVRS072937-0-01,São Miguel III,Santa Vitória do Palmar,Construção não iniciada,49500.0,Santa Vitória do Palmar,9.03,Santa Vitória do Palmar,4317301,9.03,False
+EOLCVRS072938-8-01,São Miguel IV,Santa Vitória do Palmar,Construção não iniciada,36000.0,Santa Vitória do Palmar,12.65,Santa Vitória do Palmar,4317301,12.65,False
+EOLCVRS072941-8-01,São Miguel VII,Santa Vitória do Palmar,Construção não iniciada,36000.0,Santa Vitória do Palmar,14.36,Chuí,4305439,11.11,True
+EOLCVRS031561-3-01,Verace 24,Santa Vitória do Palmar,Operação,19690.0,Santa Vitória do Palmar,14.35,Santa Vitória do Palmar,4317301,14.35,False
+EOLCVRS031541-9-01,Verace 25,Santa Vitória do Palmar,Operação,7160.0,Santa Vitória do Palmar,13.98,Chuí,4305439,13.49,True
+EOLCVRS031559-1-01,Verace 26,Santa Vitória do Palmar,Operação,14320.0,Santa Vitória do Palmar,16.05,Chuí,4305439,14.78,True
+EOLCVRS031602-4-01,Verace 30,Santa Vitória do Palmar,Operação,17900.0,Santa Vitória do Palmar,10.33,Santa Vitória do Palmar,4317301,10.33,False
+EOLCVRS031558-3-01,Verace 31,Santa Vitória do Palmar,Operação,8950.0,Santa Vitória do Palmar,10.57,Santa Vitória do Palmar,4317301,10.57,False
+EOLCVRS031601-6-01,Verace 34,Santa Vitória do Palmar,Operação,14320.0,Santa Vitória do Palmar,5.03,Santa Vitória do Palmar,4317301,5.03,False
+EOLCVRS031539-7-01,Verace 35,Santa Vitória do Palmar,Operação,12530.0,Santa Vitória do Palmar,7.37,Santa Vitória do Palmar,4317301,7.37,False
+EOLCVRS031610-5-01,Verace 36,Santa Vitória do Palmar,Operação,21480.0,Santa Vitória do Palmar,8.55,Santa Vitória do Palmar,4317301,8.55,False
+EOLCVRS030745-9-01,Verace I,Santa Vitória do Palmar,Operação,20000.0,Santa Vitória do Palmar,9.82,Santa Vitória do Palmar,4317301,9.82,False
+EOLCVRS030742-4-01,Verace II,Santa Vitória do Palmar,Operação,20000.0,Santa Vitória do Palmar,7.96,Santa Vitória do Palmar,4317301,7.96,False
+EOLCVRS030746-7-01,Verace III,Santa Vitória do Palmar,Operação,26000.0,Santa Vitória do Palmar,8.28,Santa Vitória do Palmar,4317301,8.28,False
+EOLCVRS030741-6-01,Verace IV,Santa Vitória do Palmar,Operação,30000.0,Santa Vitória do Palmar,13.56,Santa Vitória do Palmar,4317301,13.56,False
+EOLCVRS030748-3-01,Verace IX,Santa Vitória do Palmar,Operação,30000.0,Santa Vitória do Palmar,9.3,Santa Vitória do Palmar,4317301,9.3,False
+EOLCVRS030829-3-01,Verace V,Santa Vitória do Palmar,Operação,30000.0,Santa Vitória do Palmar,6.48,Santa Vitória do Palmar,4317301,6.48,False
+EOLCVRS030740-8-01,Verace VI,Santa Vitória do Palmar,Operação,18000.0,Santa Vitória do Palmar,8.87,Santa Vitória do Palmar,4317301,8.87,False
+EOLCVRS030747-5-01,Verace VII,Santa Vitória do Palmar,Operação,30000.0,Santa Vitória do Palmar,12.51,Santa Vitória do Palmar,4317301,12.51,False
+EOLCVRS030755-6-01,Verace VIII,Santa Vitória do Palmar,Operação,26000.0,Santa Vitória do Palmar,6.52,Santa Vitória do Palmar,4317301,6.52,False
+EOLCVRS030749-1-01,Verace X,Santa Vitória do Palmar,Operação,28000.0,Santa Vitória do Palmar,12.02,Santa Vitória do Palmar,4317301,12.02,False
+EOLCVRS032145-1-01,Chicolomã,Santo Antônio da Patrulha,Construção não iniciada,27800.0,Santo Antônio da Patrulha,19.17,Santo Antônio da Patrulha,4317608,19.17,False
+EOLCVRS032473-6-01,Lagoa dos Barros I,Santo Antônio da Patrulha,Construção não iniciada,22240.0,Santo Antônio da Patrulha,21.12,Capivari do Sul,4304671,18.5,True
+EOLCVRS028712-1-01,Elebrás Cidreira 1,Tramandaí,Operação,70000.0,Tramandaí,11.06,Cidreira,4305454,10.29,True
+EOLCVRS052144-2-01,Três Divisas 3,Uruguaiana,Construção não iniciada,49500.0,Uruguaiana,89.43,Quaraí,4315305,40.32,True
+EOLCVRS052145-0-01,Três Divisas 4,Uruguaiana,Construção não iniciada,45000.0,Uruguaiana,92.97,Quaraí,4315305,41.27,True
+EOLCVRS052146-9-01,Três Divisas 5,Uruguaiana,Construção não iniciada,49500.0,Uruguaiana,94.48,Quaraí,4315305,43.64,True
+EOLCVRS052147-7-01,Três Divisas 6,Uruguaiana,Construção não iniciada,45000.0,Uruguaiana,86.6,Alegrete,4300406,48.29,True
+EOLCVRS052155-8-01,Três Divisas 9,Uruguaiana,Construção não iniciada,45000.0,Uruguaiana,94.11,Quaraí,4315305,46.57,True
+EOLCVRS031509-5-01,Pontal 2 A,Viamão,Operação,21600.0,Viamão,30.79,Palmares do Sul,4313656,26.32,True
+EOLCVRS030460-3-01,Pontal 2 B,Viamão,Operação,11200.0,Viamão,30.77,Palmares do Sul,4313656,27.78,True
+EOLCVRS030901-0-01,Pontal 3 B,Viamão,Operação,27000.0,Viamão,31.44,Palmares do Sul,4313656,24.65,True
+EOLCVRS031302-5-01,Xangri-lá,Xangri-Lá,Operação,31700.0,Xangri-lá,4.7,Xangri-lá,4323804,4.7,False

@@ -1,0 +1,7 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Raw data: large files downloaded from official sources (see README for links)
+data/raw/*
+!data/raw/.gitkeep
